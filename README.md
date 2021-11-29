@@ -2,15 +2,15 @@
 
 White wizard is here to tell you the answer.
 
-Ask the white wizard with Quesions that have answer Yes or No
+Ask the white wizard with questions that have answers Yes or No
 and see your future.
 
 
 
 # it's simple app ... but hay !!!
 I was learning 
-- how to make flutter app
+- how to make a flutter app
 - how to add assets
-- how to deply the app on google play
+- how to deploy the app on google play
 
-This was my firest app with flutter.
+This was my first app with flutter.
